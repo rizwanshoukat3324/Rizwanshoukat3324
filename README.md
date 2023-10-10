@@ -1,3 +1,4 @@
+![logo](https://github.com/rizwanshoukat3324/Rizwanshoukat3324/blob/main/Cover%20photo.jpg)
 <h1 align="center">Hi 👋, I'm Rizwan Shoukat</h1>
 <h3 align="center">A passionate Data Analyst from Pakistan</h3>
 <img align="right"alt="coding"width="400"src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
