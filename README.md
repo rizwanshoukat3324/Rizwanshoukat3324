@@ -4,13 +4,13 @@
 <img align="right"alt="coding"width="400"src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizwanshoukat&label=Profile%20views&color=0e75b6&style=flat" alt="rizwanshoukat" /> </p>
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Data Analyst and Power Bi**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/rizwanshoukat](https://linktr.ee/rizwanshoukat)
 
 - 📝 I regularly write articles on [https://trendsminder.beehiiv.com/](https://trendsminder.beehiiv.com/)
 
-- 💬 Ask me about **Python, NumPy, Pandas, Matplotlib**
+- 💬 Ask me about **Python, NumPy, Pandas, Matplotlib, Power Bi**
 
 - 📫 How to reach me **rizwanshoukat3324@gmail.com**
 
