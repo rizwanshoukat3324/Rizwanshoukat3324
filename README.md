@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://trendsminder.beehiiv.com/](https://trendsminder.beehiiv.com/)
 
-- 💬 Ask me about **Python, NumPy, Pandas, Matplotlib,Power Bi**
+- 💬 Ask me about **Python, NumPy, Pandas, Matplotlib, Power Bi**
 
 - 📫 How to reach me **rizwanshoukat3324@gmail.com**
 
@@ -21,6 +21,7 @@
 <a href="https://twitter.com/rizwans60110920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rizwans60110920" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rizwan-shoukat3324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rizwan-shoukat3324" height="30" width="40" /></a>
 <a href="https://fb.com/rizwan-shoukat3324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rizwan-shoukat3324" height="30" width="40" /></a>
+<a href="https://linktr.ee/rizwanshoukat" target="blank"><img align="center" src="https://icons8.com/icon/SAuKSoGPfNAW/linktree" alt="rizwan-shoukat3324" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
