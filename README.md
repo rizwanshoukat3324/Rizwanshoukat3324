@@ -1,4 +1,4 @@
-![logo](https://github.com/rizwanshoukat3324/Rizwanshoukat3324/blob/main/Cover%20photo.jpg)
+![banner](https://github.com/user-attachments/assets/eda4ed13-ae2d-4c53-9829-d64e3a22caec)
 <h1 align="center">Hi 👋, I'm Rizwan Shoukat</h1>
 <h3 align="center">A passionate Data Analyst from Pakistan</h3>
 <img align="right"alt="coding"width="400"src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://trendsminder.beehiiv.com/](https://trendsminder.beehiiv.com/)
 
-- 💬 Ask me about **Python, NumPy, Pandas, Matplotlib, Power Bi**
+- 💬 Ask me about **Python, NumPy, Pandas,SQL, Matplotlib, Power Bi**
 
 - 📫 How to reach me **rizwanshoukat3324@gmail.com**
 
