@@ -1,4 +1,4 @@
-![banner](https://github.com/user-attachments/assets/eda4ed13-ae2d-4c53-9829-d64e3a22caec)
+![banner](https://github.com/rizwanshoukat3324/Rizwanshoukat3324/blob/1071215828007627cca7640319a5672243f18671/Banner.png)
 <h1 align="center">Hi 👋, I'm Rizwan Shoukat</h1>
 <h3 align="center">A passionate Data Analyst from Pakistan</h3>
 <img align="right"alt="coding"width="400"src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
